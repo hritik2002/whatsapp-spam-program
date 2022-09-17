@@ -19,3 +19,5 @@ Steps to reproduce
 > Run `node index.js`
 > 
 > Scan the QR code from your phone.
+>
+> See the results : )
